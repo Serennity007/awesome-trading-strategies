@@ -6,8 +6,8 @@
 
 ---
 
-<a href="https://github.com/Serennity007/awesome-trading-strategies/stargazers"><img src="https://img.shields.io/github/stars/liangzhengtao/awesome-trading-strategies?style=for-the-badge"></a>
-<a href="https://github.com/Serennity007/awesome-trading-strategies/forks"><img src="https://img.shields.io/github/forks/liangzhengtao/awesome-trading-strategies?style=for-the-badge"></a>
+<a href="https://github.com/Serennity007/awesome-trading-strategies/stargazers"><img src="https://img.shields.io/github/stars/Serennity007/awesome-trading-strategies?style=for-the-badge"></a>
+<a href="https://github.com/Serennity007/awesome-trading-strategies/forks"><img src="https://img.shields.io/github/forks/Serennity007/awesome-trading-strategies?style=for-the-badge"></a>
 
 **6 个精选方向 · 全部散户可执行 · 附指标公式和实操步骤**
 
